@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! My bio is coming soon here 👋
 
 Here are some ideas to get you started:
 
