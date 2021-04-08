@@ -10,7 +10,7 @@
 
 - **Backend**:<b> ```Node.js``` &nbsp; ```Socket.io``` &nbsp; ```PHP``` &nbsp; ```Laravel``` &nbsp; ```MySQL``` ```MongoDB``` &nbsp; ```SQLite``` &nbsp; ```AWS``` &nbsp; ```Cloudflare``` &nbsp; ```DigitalOcean```</b><br>
 
-- **Tools**: <b> ```Photoshop``` &nbsp; ```Illustrator``` &nbsp; ```XD``` &nbsp; ```Unity``` &nbsp; ```Blender```</b><br>
+- **Tools**: <b> ```Adobe Photoshop``` &nbsp; ```Adobe Illustrator``` &nbsp; ```Adobe XD``` &nbsp; ```Unity``` &nbsp; ```Blender```</b><br>
 - **Interests**: <b> ```Playing piano``` &nbsp; ```3D Modelling```  &nbsp;```Game Design```  &nbsp;```creative stuff...```</b>
 
  </b>
