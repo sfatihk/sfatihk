@@ -6,18 +6,6 @@
 
 - 📫 How to reach me ➡️ **info@sfatihk.com** or [**twitter**](https://twitter.com/sfatihk)
 
-- **Fronted**: <b> ```React.js``` &nbsp; ```React Native``` &nbsp; ```Three.js``` &nbsp; ```Vue.js``` &nbsp; ```All about Javascript...```</b><br>
-
-- **Backend**:<b> ```Node.js``` &nbsp; ```Socket.io``` &nbsp; ```PHP``` &nbsp; ```Laravel``` &nbsp; ```MySQL``` ```MongoDB``` &nbsp; ```SQLite``` &nbsp; ```AWS``` &nbsp; ```Cloudflare``` &nbsp; ```DigitalOcean```</b><br>
-
-- **Tools**: <b> ```Adobe Photoshop``` &nbsp; ```Adobe Illustrator``` &nbsp; ```Adobe XD``` &nbsp; ```Unity``` &nbsp; ```Blender```</b><br>
-- **Interests**: <b> ```Playing piano``` &nbsp; ```3D Modelling```  &nbsp;```Game Design```  &nbsp;```creative stuff...```</b>
-
- </b>
-<p>
-  
----
-
 ## Highlights
 
 ### [React-World](https://sfatihk.github.io/react-world/#)
@@ -36,6 +24,18 @@ I needed so I built this. People like it. Simple. Effective. 👌
 
 ---
 
+## Tech Stack
+- **Fronted**: <b> ```React.js``` &nbsp; ```React Native``` &nbsp; ```Three.js``` &nbsp; ```Vue.js``` &nbsp; ```All about Javascript...```</b><br>
+
+- **Backend**:<b> ```Node.js``` &nbsp; ```Socket.io``` &nbsp; ```PHP``` &nbsp; ```Laravel``` &nbsp; ```MySQL``` ```MongoDB``` &nbsp; ```SQLite``` &nbsp; ```AWS``` &nbsp; ```Cloudflare``` &nbsp; ```DigitalOcean```</b><br>
+
+- **Tools**: <b> ```Adobe Photoshop``` &nbsp; ```Adobe Illustrator``` &nbsp; ```Adobe XD``` &nbsp; ```Unity``` &nbsp; ```Blender```</b><br>
+- **Interests**: <b> ```Playing piano``` &nbsp; ```3D Modelling```  &nbsp;```Game Design```  &nbsp;```creative stuff...```</b>
+
+ </b>
+<p>
+  
+---
 
 <h3>Connect with Me</h3>
 <a href="https://twitter.com/sfatihk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sfatihk" height="30" width="40" /></a>
