@@ -27,7 +27,7 @@ I needed so I built this. People like it. Simple. Effective. 👌
 ## Tech Stack
 - **Frontend**: <b> ```React.js``` &nbsp; ```React Native``` &nbsp; ```Three.js``` &nbsp; ```Vue.js``` &nbsp; ```Styled Components```  &nbsp; ```All about Javascript...```</b><br>
 
-- **Backend**:<b> ```Node.js``` &nbsp; ```Socket.io``` &nbsp; ```PHP``` &nbsp; ```Laravel``` &nbsp; ```MySQL``` ```MongoDB``` &nbsp; ```SQLite``` &nbsp; ```AWS``` &nbsp; ```Cloudflare``` &nbsp; ```DigitalOcean```</b><br>
+- **Backend**:<b> ```Node.js``` &nbsp; ```Socket.io``` &nbsp; ```PHP``` &nbsp; ```Laravel``` &nbsp; ```MySQL``` ```MongoDB``` &nbsp; ```SQLite``` &nbsp; ```AWS``` &nbsp; ```Cloudflare``` &nbsp; ```DigitalOcean``` &nbsp; ```...```</b><br>
 
 - **Tools**: <b> ```Adobe Photoshop``` &nbsp; ```Adobe Illustrator``` &nbsp; ```Adobe XD``` &nbsp; ```Unity``` &nbsp; ```Blender```</b><br>
 - **Interests**: <b> ```Playing piano``` &nbsp; ```3D Modelling```  &nbsp;```Game Design```  &nbsp;```creative stuff...```</b>
