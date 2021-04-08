@@ -2,7 +2,7 @@
 
 ### A passionate Full-Stack Developer
 
-- 🔭 I’m currently working at [Manastir](https://manastir.net/)
+- 🔭 I’m currently working at [**Manastir**](https://manastir.net/)
 
 - 📫 How to reach me ➡️ **info@sfatihk.com** or [**twitter**](https://twitter.com/sfatihk)
 
