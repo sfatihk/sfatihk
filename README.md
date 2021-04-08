@@ -29,10 +29,10 @@ It was a lot of fun to create. I definitely have to make another version 😁
 
 ---
 
-### [Electron-tray-window](https://sfatihk.github.io/react-world/#)
+### [Electron-tray-window](https://github.com/sfatihk/electron-tray-window)
 I needed so I built this. People like it. Simple. Effective. 👌
 <br><br>
-[<img src="https://raw.githubusercontent.com/sfatihk/electron-tray-window/master/resources/showcase.gif" width="500"/>](https://sfatihk.github.io/react-world/#)
+[<img src="https://raw.githubusercontent.com/sfatihk/electron-tray-window/master/resources/showcase.gif" width="500"/>](https://github.com/sfatihk/electron-tray-window)
 
 ---
 
