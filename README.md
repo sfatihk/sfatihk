@@ -25,7 +25,7 @@ I needed so I built this. People like it. Simple. Effective. 👌
 ---
 
 ## Tech Stack
-- **Fronted**: <b> ```React.js``` &nbsp; ```React Native``` &nbsp; ```Three.js``` &nbsp; ```Vue.js``` &nbsp; ```All about Javascript...```</b><br>
+- **Frontend**: <b> ```React.js``` &nbsp; ```React Native``` &nbsp; ```Three.js``` &nbsp; ```Vue.js``` &nbsp; ```Styled Components```  &nbsp; ```All about Javascript...```</b><br>
 
 - **Backend**:<b> ```Node.js``` &nbsp; ```Socket.io``` &nbsp; ```PHP``` &nbsp; ```Laravel``` &nbsp; ```MySQL``` ```MongoDB``` &nbsp; ```SQLite``` &nbsp; ```AWS``` &nbsp; ```Cloudflare``` &nbsp; ```DigitalOcean```</b><br>
 
