@@ -5,7 +5,7 @@
 - I’m currently working at [**Manastir**](https://manastir.net/)
 
 - How to reach me **info@sfatihk.com** or [**twitter**](https://twitter.com/sfatihk)
-- 
+
 ![](https://komarev.com/ghpvc/?username=sfatihk&color=yellowgreen)
 
 ## Highlights
