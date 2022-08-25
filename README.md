@@ -13,14 +13,14 @@
 You should try it!!! <br>
 It was a lot of fun to create. I definitely have to make another version 😁
 <br><br>
-[<img src="https://raw.githubusercontent.com/sfatihk/react-world/master/resources/preview.gif" width="400"/>](https://sfatihk.github.io/react-world/#)
+[<img src="https://raw.githubusercontent.com/sfatihk/react-world/master/resources/preview.gif" style="max-width:100%; width:400px"/>](https://sfatihk.github.io/react-world/#)
 
 ---
 
 ### [Electron-tray-window](https://github.com/sfatihk/electron-tray-window)
 I needed so I built this. People like it. Simple. Effective. 👌
 <br><br>
-[<img src="https://raw.githubusercontent.com/sfatihk/electron-tray-window/master/resources/showcase.gif" width="500"/>](https://github.com/sfatihk/electron-tray-window)
+[<img src="https://raw.githubusercontent.com/sfatihk/electron-tray-window/master/resources/showcase.gif" style="max-width:100%; width:500px"/>](https://github.com/sfatihk/electron-tray-window)
 
 ---
 
