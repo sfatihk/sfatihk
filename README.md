@@ -2,7 +2,7 @@
 
 ### A passionate Full-Stack Developer
 
-- I’m currently working at [**Vigo**](https://vigovigo.com/)
+- I’m currently working with [**Vigo**](https://vigovigo.com/)
 
 - How to reach me **info@sfatihk.com**, [**Twitter**](https://twitter.com/sfatihk) or [**LinkedIn**](https://www.linkedin.com/in/sfatihk/)
 
