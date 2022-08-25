@@ -1,4 +1,4 @@
-# Hi 👋, I'm S. Fatih Koç!
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1000&pause=1500&color=A4A61D&vCenter=true&width=555&lines=Hi+%F0%9F%91%8B%2C+I'm+S.Fatih+Ko%C3%A7!;%F0%9F%92%AB+Let's+create+something..." alt="Typing SVG" /></a>
 
 ### A passionate Full-Stack Developer
 
