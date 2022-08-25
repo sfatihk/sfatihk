@@ -4,7 +4,7 @@
 
 - I’m currently working at [**Vigo**](https://vigovigo.com/)
 
-- How to reach me **info@sfatihk.com** or [**twitter**](https://twitter.com/sfatihk)
+- How to reach me **info@sfatihk.com**, [**Twitter**](https://twitter.com/sfatihk) or [**LinkedIn**](https://www.linkedin.com/in/sfatihk/)
 
 ![](https://komarev.com/ghpvc/?username=sfatihk&color=yellowgreen)
 
